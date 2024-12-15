@@ -1,0 +1,28 @@
+
+# Google Tracking & Werbung (werden entfernt, wenn diese die Probleme verursachen)
+google-analytics.com
+analytics.google.com
+googletagmanager.com
+googlesyndication.com
+doubleclick.net
+adservice.google.com
+ads.google.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+
+# Nutzerverhaltensanalyse (könnte für Apps und Internetverbindung wichtig sein)
+apis.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+connectivitycheck.gstatic.com
+firebaseinstallations.googleapis.com
+ssl.gstatic.com
+www-google-analytics.l.google.com
+
+# Sprachassistent & Abhördienste (zu blockieren)
+speech.googleapis.com
+voice.google.com
+ogs.google.com
+googleapis.com
