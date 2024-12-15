@@ -1,0 +1,35 @@
+
+# Google Tracking & Werbung
+google-analytics.com
+analytics.google.com
+googletagmanager.com
+googlesyndication.com
+doubleclick.net
+adservice.google.com
+ads.google.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+
+# Nutzerverhaltensanalyse
+apis.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+connectivitycheck.gstatic.com
+firebaseinstallations.googleapis.com
+ssl.gstatic.com
+www-google-analytics.l.google.com
+
+# Sprachassistent & Abhördienste
+speech.googleapis.com
+voice.google.com
+ogs.google.com
+googleapis.com
+
+# Zusätzliche Google-Domains
+play.google.com
+lh3.googleusercontent.com
+lh4.googleusercontent.com
+lh5.googleusercontent.com
+lh6.googleusercontent.com
